@@ -1,4 +1,13 @@
-<h1 align="center">  Desafio Conversor De Moneda con JAVA</h1>
+<div align="center">
+  <h1 align="center">
+    Desafio Conversor De Moneda con JAVA
+    <br />
+    <br />
+    <a href="https://docusaurus.io">
+      <img src="https://raw.githubusercontent.com/Ludmimar/DesafioConversorDeMoneda/main/Badge-Conversor.png" alt="Conversor">
+    </a>
+  </h1>
+</div>
 
 Este proyecto fue realizado para el curso de Java orientado a objeto de ALURA LATAM!
 
