@@ -2,8 +2,7 @@
 
 Este proyecto fue realizado para el curso de Java orientado a objeto de ALURA LATAM!
 
-Trello del proyecto:  [Tablero de trello ⏱️](https://raw.githubusercontent.com/Ludmimar/DesafioConversorDeMoneda/main/Trello.jpg)!
-
+#### Trello del proyecto:  [Tablero de trello ⏱️](https://raw.githubusercontent.com/Ludmimar/DesafioConversorDeMoneda/main/Trello.jpg)!
 
 # Documentacion
 #### Configurando Git por primera vez:   [Git ⏱️](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Configurando-Git-por-primera-vez) y como escribir un ReadMe [ReadMe ⏱️](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github)
@@ -27,6 +26,7 @@ Trello del proyecto:  [Tablero de trello ⏱️](https://raw.githubusercontent.c
 > A continuacion abrir el proyecto con IntelliJ IDEA (de preferencia, ya que utilice dicho IDE)
 > Posicionarse en la clase CurrencyConverter dentro del paquete modelos [CurrencyConverter](https://github.com/Ludmimar/DesafioConversorDeMoneda/blob/main/src/com/alura/desafioconversordemoneda/modelos/CurrencyConverter.java) para ejecutar el archivo.
 > Desde la consola del IDE se podra visualiza un menu de con las distintas opciones de conversion.
+> Salida por consola:  [Consola ⏱️](https://raw.githubusercontent.com/Ludmimar/DesafioConversorDeMoneda/main/Consola.jpg)!
 
 ## Contacto 
 
