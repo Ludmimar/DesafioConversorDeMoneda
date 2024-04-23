@@ -3,7 +3,7 @@
     Desafio Conversor De Moneda con JAVA
     <br />
     <br />
-    <a href="https://docusaurus.io">
+    <a>
       <img src="https://raw.githubusercontent.com/Ludmimar/DesafioConversorDeMoneda/main/Badge-Conversor.png" alt="Conversor">
     </a>
   </h1>
