@@ -37,6 +37,7 @@ Este proyecto fue realizado para el curso de Java orientado a objeto de ALURA LA
 > Desde la consola del IDE se podra visualiza un menu de con las distintas opciones de conversion.
 > Salida por consola:  [Consola ⏱️](https://raw.githubusercontent.com/Ludmimar/DesafioConversorDeMoneda/main/Consola.jpg)!
 
-## Contacto 
+📌 Autor
 
-- [Linkedin](https://www.linkedin.com/in/ludmila-martos/)
+Martos Ludmila
+#### [Linkedin](https://www.linkedin.com/in/ludmimar89/)
