@@ -279,12 +279,15 @@ El desarrollo de este proyecto se planificó utilizando **Trello** para organiza
 
 ---
 
-## 👤 Autor
+## 👨‍💻 Autor
 
-**Ludmila Martos**
+**Desarrollador**: Ludmila Martos
 
-- LinkedIn: [Ludmila Martos](https://www.linkedin.com/in/ludmimar89/)
-- GitHub: [@Ludmimar](https://github.com/Ludmimar)
+## 📞 Contacto
+
+- **Email**: [ludmilamartos@gmail.com](mailto:ludmilamartos@gmail.com)
+- **LinkedIn**: [ludmimar89](https://www.linkedin.com/in/ludmimar89/)
+- **GitHub**: [Ludmimar](https://github.com/Ludmimar)
 
 ---
 
